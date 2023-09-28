@@ -1,0 +1,17 @@
+export { AnswerCrudResolver } from "./Answer/AnswerCrudResolver";
+export { AudioCrudResolver } from "./Audio/AudioCrudResolver";
+export { CategoryCrudResolver } from "./Category/CategoryCrudResolver";
+export { CodeCrudResolver } from "./Code/CodeCrudResolver";
+export { CommentCrudResolver } from "./Comment/CommentCrudResolver";
+export { FileCrudResolver } from "./File/FileCrudResolver";
+export { ImageCrudResolver } from "./Image/ImageCrudResolver";
+export { LikeCrudResolver } from "./Like/LikeCrudResolver";
+export { LinkCrudResolver } from "./Link/LinkCrudResolver";
+export { PollCrudResolver } from "./Poll/PollCrudResolver";
+export { PostCrudResolver } from "./Post/PostCrudResolver";
+export { ProfileCrudResolver } from "./Profile/ProfileCrudResolver";
+export { QuestionCrudResolver } from "./Question/QuestionCrudResolver";
+export { QuoteCrudResolver } from "./Quote/QuoteCrudResolver";
+export { TagCrudResolver } from "./Tag/TagCrudResolver";
+export { UserCrudResolver } from "./User/UserCrudResolver";
+export { VideoCrudResolver } from "./Video/VideoCrudResolver";

@@ -1,0 +1,17 @@
+export { AnswerRelationsResolver } from "./Answer/AnswerRelationsResolver";
+export { AudioRelationsResolver } from "./Audio/AudioRelationsResolver";
+export { CategoryRelationsResolver } from "./Category/CategoryRelationsResolver";
+export { CodeRelationsResolver } from "./Code/CodeRelationsResolver";
+export { CommentRelationsResolver } from "./Comment/CommentRelationsResolver";
+export { FileRelationsResolver } from "./File/FileRelationsResolver";
+export { ImageRelationsResolver } from "./Image/ImageRelationsResolver";
+export { LikeRelationsResolver } from "./Like/LikeRelationsResolver";
+export { LinkRelationsResolver } from "./Link/LinkRelationsResolver";
+export { PollRelationsResolver } from "./Poll/PollRelationsResolver";
+export { PostRelationsResolver } from "./Post/PostRelationsResolver";
+export { ProfileRelationsResolver } from "./Profile/ProfileRelationsResolver";
+export { QuestionRelationsResolver } from "./Question/QuestionRelationsResolver";
+export { QuoteRelationsResolver } from "./Quote/QuoteRelationsResolver";
+export { TagRelationsResolver } from "./Tag/TagRelationsResolver";
+export { UserRelationsResolver } from "./User/UserRelationsResolver";
+export { VideoRelationsResolver } from "./Video/VideoRelationsResolver";

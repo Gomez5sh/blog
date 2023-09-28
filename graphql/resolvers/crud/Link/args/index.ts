@@ -1,0 +1,14 @@
+export { AggregateLinkArgs } from "./AggregateLinkArgs";
+export { CreateManyLinkArgs } from "./CreateManyLinkArgs";
+export { CreateOneLinkArgs } from "./CreateOneLinkArgs";
+export { DeleteManyLinkArgs } from "./DeleteManyLinkArgs";
+export { DeleteOneLinkArgs } from "./DeleteOneLinkArgs";
+export { FindFirstLinkArgs } from "./FindFirstLinkArgs";
+export { FindFirstLinkOrThrowArgs } from "./FindFirstLinkOrThrowArgs";
+export { FindManyLinkArgs } from "./FindManyLinkArgs";
+export { FindUniqueLinkArgs } from "./FindUniqueLinkArgs";
+export { FindUniqueLinkOrThrowArgs } from "./FindUniqueLinkOrThrowArgs";
+export { GroupByLinkArgs } from "./GroupByLinkArgs";
+export { UpdateManyLinkArgs } from "./UpdateManyLinkArgs";
+export { UpdateOneLinkArgs } from "./UpdateOneLinkArgs";
+export { UpsertOneLinkArgs } from "./UpsertOneLinkArgs";
